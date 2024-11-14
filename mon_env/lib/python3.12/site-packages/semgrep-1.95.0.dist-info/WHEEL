@@ -1,0 +1,13 @@
+Wheel-Version: 1.0
+Generator: bdist_wheel (0.44.0)
+Root-Is-Purelib: false
+Tag: cp38-none-any
+Tag: cp39-none-any
+Tag: cp310-none-any
+Tag: cp311-none-any
+Tag: py37-none-any
+Tag: py38-none-any
+Tag: py39-none-any
+Tag: py310-none-any
+Tag: py311-none-any
+
